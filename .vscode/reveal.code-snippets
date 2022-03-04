@@ -26,5 +26,13 @@
   "Pantalla completa": {
     "prefix": "fullscreen",
     "body": "<!-- .element: class=\"fullscreen\" -->"
+  },
+  "Configurar height": {
+    "prefix": "height",
+    "body": "<!-- .element: height=\"${1:300px}\" -->"
+  },
+  "Configurar width": {
+    "prefix": "width",
+    "body": "<!-- .element: width=\"${1:300px}\" -->"
   }
 }
