@@ -194,4 +194,3 @@ Crear un project y draft issues.
 </div>
 
 <img width="200px" src="img/perfil.png">
-````
